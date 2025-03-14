@@ -1,5 +1,5 @@
 # Matriz 3D que recopila los datos pertenecientes a las temperaturas de 3 ciudades durante 4 semanas
-# En esta Matriz averiguaremos el promedio total de temperaturas respecto a las 3 ciudades
+# En esta Matriz averiguaremos el promedio total de temperaturas respecto a las 3 ciudades con el uso de funciones
 # Primera dimensión: Ciudades (Quito, Guayaquil, Ambato)
 # Segunda dimensión: Días de la semana (7 días)
 # Tercera dimensión: Semanas (4 semanas)
