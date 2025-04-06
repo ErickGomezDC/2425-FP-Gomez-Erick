@@ -1,0 +1,3 @@
+1. Buenas tardes mi nombre es Erick Gomez estudiante de fundamentos en programacion
+2. La creacion e interaccion de archivos de texto en Python fue muy interesante y divertido.
+3. no se olviden de cerrar el archivo despues de trabajar en el, para no perder el progreso realizado.
